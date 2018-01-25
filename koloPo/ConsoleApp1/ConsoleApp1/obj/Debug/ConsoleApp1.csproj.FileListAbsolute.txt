@@ -1,0 +1,7 @@
+e:\koloPo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+e:\koloPo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+e:\koloPo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+e:\koloPo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+e:\koloPo\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+e:\koloPo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+e:\koloPo\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
